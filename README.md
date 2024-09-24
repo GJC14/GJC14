@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-**I'm a Software Developer from Taiwan**
+**I'm a React Software Developer from Taiwan**
 
-Currently
+Currently:
 
 - Working on ☀️: **Remix eCommerce Project**
 
@@ -10,4 +10,4 @@ Currently
 
 - Fun Fact 😎: **Self-learning Programming**
 
-You could find me on: [LinkedIn](https://www.linkedin.com/in/gabiñño/) * [Blog](https://gabriel.cyou)
+You could find me on: [LinkedIn](https://www.linkedin.com/in/gabiñño/) o [Blog](https://gabriel.cyou)
