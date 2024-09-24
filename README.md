@@ -10,4 +10,4 @@ Currently:
 
 - Fun Fact 😎: **Self-learning Programming**
 
-You could find me on: [LinkedIn](https://www.linkedin.com/in/gabiñño/) o [Blog](https://gabriel.cyou)
+You could find [ME](https://yinc.me) on [LinkedIn](https://www.linkedin.com/in/gabiñño/)
